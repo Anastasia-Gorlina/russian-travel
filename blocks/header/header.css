@@ -6,13 +6,13 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .header {
       margin: 0 24px 0 24px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .header {
       min-height: 42px;
       margin: 0 16px 0 16px;

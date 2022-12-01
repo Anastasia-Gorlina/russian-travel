@@ -8,11 +8,12 @@
   align-items: center;
   align-content: center;
   background-image: url(../../images/cover-trains.jpg);
+  background-position: center;
   background-size: cover;
   z-index: 1;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .cover {
       gap: 16px;
   }
