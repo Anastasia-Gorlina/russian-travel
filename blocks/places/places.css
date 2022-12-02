@@ -3,21 +3,21 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 80px;
-  padding-bottom: 92px;
+  gap: 32px;
+  padding-bottom: 66px;
   margin: 0px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
   .places {
-      padding: 0px 48px 92px;
+      padding: 0px 48px 44px;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 767px) and (max-width: 1023px) {
   .places {
-      padding: 0px 24px 90px;
-      gap: 72px;
+      padding: 0px 24px 42px;
+      gap: 24px;
   }
 }
 

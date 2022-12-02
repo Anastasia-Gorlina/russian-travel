@@ -5,14 +5,14 @@
   padding-bottom: 92px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
 
   .intro {
       padding-left: 48px;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
 
   .intro {
       min-width: 208px;
@@ -20,7 +20,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
   .intro {
       min-width: 288px;

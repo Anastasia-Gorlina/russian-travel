@@ -8,7 +8,7 @@
   margin: 0;
 }
 
-@media screen and (min-width: 768px) and ( max-width: 1024px) {
+@media screen and (min-width: 768px) and ( max-width: 1023px) {
     .place__text {
       font-size: 16px;
       line-height: 26px;
@@ -19,7 +19,5 @@
     .place__text {
         font-size: 16px;
         line-height: 26px;
-        margin-right: 16px;
-        margin-left: 16px;
     }
 }
