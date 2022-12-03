@@ -9,6 +9,12 @@
   margin: 60px auto 0px auto;
 }
 
+@media screen and ( max-width: 768px) {
+  .lead__title {
+    margin: 48px auto 0px auto;
+  }
+}
+
 @media screen and ( max-width: 767px) {
     .lead__title {
       margin: 48px auto 0px auto;
